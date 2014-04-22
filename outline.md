@@ -19,6 +19,4 @@ Outline
 - Android Authenticator
 - GUI
 
-| WT | | WT |
-|:--:|-| :---: |
-|(G) | | 123XY |
+![wlftkn draft 0](wlftkn-gui-draft0.jpg)
