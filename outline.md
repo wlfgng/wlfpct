@@ -10,7 +10,9 @@ Outline
 
 # pckwlf
 
-
+- Client GUI Application
+- List of machines and their last visit time
+- Grid of sites. Button to display password *or* copy to clipboard
 
 
 
