@@ -4,11 +4,14 @@ Outline
 # wlfsrvr
 
 
-
-
-
-
 # pckwlf
+
+- Client backend
+- Connects to Cassandra
+
+
+
+# gpckwlf
 
 - Client GUI Application
 - List of machines and their last visit time
