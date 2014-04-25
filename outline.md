@@ -3,6 +3,10 @@ Outline
 
 # wlfsrvr
 
+- Server backend
+- Connects to clients
+
+
 
 # pckwlf
 
@@ -27,3 +31,9 @@ Outline
 - GUI
 
 ![wlftkn draft 0](wlftkn-gui-draft1.jpg)
+
+# General Ideas
+- Can service multiple separate users on different accounts
+- Account password required to connect
+- Include account-wide option to prompt for global password every time
+  a site password is requested
